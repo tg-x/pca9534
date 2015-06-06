@@ -1,0 +1,9 @@
+{
+  "name": "pca9534",
+  "version": "0.1.0",
+  "description": "Control GPIOs of a PCA9534 IC",
+  "main": "lib/pca9534.js",
+  "dependencies": {
+      "i2c": "~0.1.8"
+  }
+}
